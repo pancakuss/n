@@ -27,7 +27,7 @@ nav {
     width: 80%;
 }
 #article{
-    background-image: url(/images/bg.avif);
+    background-image: url(/bg.avif);
     height: 600px;
     background-repeat: no-repeat;
     background-position: center;
